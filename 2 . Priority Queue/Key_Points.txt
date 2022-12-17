@@ -17,3 +17,7 @@ Space = O(1)
 Deletion ->
 Time = O(log N)
 Space = O(log N) because of recursion process storage is used
+
+In Finding or limiting a problem upto a value of K then in finding :
+Maximum -> MinHeap is used
+Minimum -> MaxHeap is used
